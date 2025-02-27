@@ -6,7 +6,7 @@ The Meshtastic workshop is a hardware-based workshop that focuses on creating a 
 
 ## Requirements:
 
-This workshop requires a laptop a micro usb cable for flashing the device
+This workshop requires a laptop and a micro usb cable for flashing the device
 Web flasher: https://flasher.meshtastic.org/
 
 ## Build Instructions:
